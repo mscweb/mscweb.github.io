@@ -1,0 +1,12 @@
+# Site settings
+title: SUNY Morrisville Developer Wiki
+email: web@morrisville.edu
+description: "Morrisville State College Web Developer Wiki"
+baseurl: ""
+url: "http://wiki.morrisville.edu"
+twitter_username: 
+github_username:  mscweb
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title.html
