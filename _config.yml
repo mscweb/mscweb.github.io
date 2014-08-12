@@ -1,7 +1,7 @@
 # Site settings
-title: SUNY Morrisville Developer Wiki
+title: SUNY Morrisville Developer Blog
 email: web@morrisville.edu
-description: "Morrisville State College Web Developer Wiki"
+description: "Morrisville State College Web Developer Blog"
 baseurl: ""
 url: "http://mscweb.github.io"
 twitter_username: 
