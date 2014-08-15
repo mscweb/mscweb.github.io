@@ -1,3 +1,3 @@
-## SUNY Morrisville Wiki for Web Developers
+## SUNY Morrisville Developer Blog
 
-built using [Jekyll](http://jekyllrb.com/)
+Built on [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
